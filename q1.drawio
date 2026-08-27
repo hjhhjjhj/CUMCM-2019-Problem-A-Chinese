@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.1">
+  <diagram name="第 1 页" id="oIFUW5SlUxy3nx8pEqv4">
+    <mxGraphModel dx="1067" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-1" target="u-Giuvnx1XGxUuXQtl4V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-2" target="u-Giuvnx1XGxUuXQtl4V-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-2" value="初始化变量&lt;div&gt;数据预处理&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-4" target="u-Giuvnx1XGxUuXQtl4V-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-4" target="u-Giuvnx1XGxUuXQtl4V-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="210" />
+              <mxPoint x="630" y="895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-4" value="A阀门开启时长遍历" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="180" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-6" target="u-Giuvnx1XGxUuXQtl4V-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-6" target="u-Giuvnx1XGxUuXQtl4V-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="365" />
+              <mxPoint x="600" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-6" value="一个时间周期循环" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.5" y="340" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-7" target="u-Giuvnx1XGxUuXQtl4V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-7" value="内部遍历遍历初始化" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="270" width="157" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-12" target="u-Giuvnx1XGxUuXQtl4V-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-12" value="计算油管内初始密度&lt;div&gt;和单位时间内流入流量&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="430" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-14" value="未达到设定循环时长1000.00ms" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-15" target="u-Giuvnx1XGxUuXQtl4V-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-15" target="u-Giuvnx1XGxUuXQtl4V-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-15" value="&lt;div&gt;检测A阀门标记&lt;/div&gt;判断A阀门开启" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="520" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-19" target="u-Giuvnx1XGxUuXQtl4V-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-19" value="计算流入油管燃油质量&lt;div&gt;更新A阀门标记&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-21" value="开启" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-22" target="u-Giuvnx1XGxUuXQtl4V-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-22" value="设置流入燃油质量为0&lt;div&gt;更新A阀门标记&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="610" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-24" target="u-Giuvnx1XGxUuXQtl4V-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="740" />
+              <mxPoint x="230" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-24" value="计算最终油管内燃油质量&lt;div&gt;计算密度&lt;/div&gt;&lt;div&gt;反解出当前压强并且存储&lt;/div&gt;&lt;div&gt;更新循环标记&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="710" width="177" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-29" target="u-Giuvnx1XGxUuXQtl4V-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="830" />
+              <mxPoint x="190" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-29" value="计算当前开阀时长油管气压平均值&lt;div&gt;更新循环标记&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="303.75" y="800" width="218.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-31" value="达到设定时间" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="340" width="93.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-32" value="未达到设定最大值" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Giuvnx1XGxUuXQtl4V-34" target="u-Giuvnx1XGxUuXQtl4V-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-34" value="选着需要的数据&lt;div&gt;保存到本地存储&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="870" width="196.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-36" value="达到设定最大值" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="503" y="180" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Giuvnx1XGxUuXQtl4V-37" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="950" width="117" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

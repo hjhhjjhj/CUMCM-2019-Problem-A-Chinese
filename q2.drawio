@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.1">
+  <diagram name="第 1 页" id="c9mE125no9I9GvImBQiW">
+    <mxGraphModel dx="883" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VzBYKv9d2njDY-pD26UM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-1" target="VzBYKv9d2njDY-pD26UM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="40" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-2" target="VzBYKv9d2njDY-pD26UM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-2" value="初始化变量&lt;div&gt;数据预处理&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-4" target="VzBYKv9d2njDY-pD26UM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-4" target="VzBYKv9d2njDY-pD26UM-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="190" />
+              <mxPoint x="660" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-4" value="角速度遍历" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="170" width="166" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-6" target="VzBYKv9d2njDY-pD26UM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-6" value="内部变量初始化" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-8" target="VzBYKv9d2njDY-pD26UM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-8" target="VzBYKv9d2njDY-pD26UM-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="310" />
+              <mxPoint x="640" y="966" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-8" value="模拟时长" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="290" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-10" target="VzBYKv9d2njDY-pD26UM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-10" value="初始化变量&lt;div&gt;计算凸轮下个单位时间半径&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="340" width="193" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-13" target="VzBYKv9d2njDY-pD26UM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484.97" y="540" as="targetPoint" />
+            <mxPoint x="477.97" y="415" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="415" />
+              <mxPoint x="520" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-13" value="判断柱塞运动方向" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="390" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-15" target="VzBYKv9d2njDY-pD26UM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-15" value="计算并更新当前油泵体积和密度&lt;div&gt;反解出当前油泵压强&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="460" width="203" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-17" value="向上运动" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-18" target="VzBYKv9d2njDY-pD26UM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="625" as="targetPoint" />
+            <mxPoint x="341" y="545" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="304" y="540" />
+              <mxPoint x="304" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-18" value="判断是否在下止点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="520" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-20" target="VzBYKv9d2njDY-pD26UM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-20" value="油泵补充低压燃油&lt;div&gt;更新油泵压强、密度和质量&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="314.5" y="580" width="197" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-22" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="554" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-24" value="向下运动" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-26" target="VzBYKv9d2njDY-pD26UM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-26" value="计算油管当前密度和质量&lt;div&gt;计算B喷油嘴喷出燃油体积和质量&lt;/div&gt;&lt;div&gt;更新油管内剩余燃油质量&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="630" width="231" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-29" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-30" target="VzBYKv9d2njDY-pD26UM-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-30" target="VzBYKv9d2njDY-pD26UM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-30" value="上个单位时间&lt;div&gt;单向阀A是否开启&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="703" width="159" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-32" target="VzBYKv9d2njDY-pD26UM-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-32" value="连通器法计算共同的质量、密度、体积和压强&lt;div&gt;更新油泵油管压强和密度&lt;/div&gt;&lt;div&gt;末尾检测，超过上止点时，更新单向阀A标志关闭&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140.25" y="780" width="296.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-34" value="开启" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277" y="703" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-36" target="VzBYKv9d2njDY-pD26UM-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="850" />
+              <mxPoint x="412" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-36" value="检测油泵压强是否高于油管&lt;div&gt;更新单向阀A标志&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="780" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-38" value="关闭" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="477" y="703" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-39" target="VzBYKv9d2njDY-pD26UM-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="885" />
+              <mxPoint x="130" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-39" value="更新下个单位时长循环初始变量&lt;div&gt;存储油管压强数据&lt;/div&gt;&lt;div&gt;更新时间变量&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="860" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-43" value="未到设定时长" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="318" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzBYKv9d2njDY-pD26UM-44" target="VzBYKv9d2njDY-pD26UM-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="955" />
+              <mxPoint x="110" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-44" value="重置时间变量&lt;div&gt;计算本次平均油管压强并且存储&lt;/div&gt;&lt;div&gt;重置变量&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="303.25" y="930" width="221.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-46" value="到达设定时长" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="483" y="286" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-48" value="未达到设定最大角速度" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="204" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzBYKv9d2njDY-pD26UM-49" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1000" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
